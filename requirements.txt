@@ -3,3 +3,4 @@ notebook==6.5.5
 python-dotenv==1.0.1
 traitlets==5.9.0
 widgetsnbextension
+jupyter-contrib-nbextensions==0.7.0
